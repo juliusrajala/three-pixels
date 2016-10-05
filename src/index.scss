@@ -1,0 +1,18 @@
+$really-blue: #1D3DA7;
+$quite-black: #4D4B50;
+$very-silver: #EAEBE5;
+$radius: 20px;
+
+body {
+  background-color: #2f2f2f;
+}
+
+@mixin material-shadow {
+  -webkit-box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.36);
+  -moz-box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.36);
+  box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.36);
+}
+
+@import './scss/blocks';
+@import './scss/parts';
+
