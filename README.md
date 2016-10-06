@@ -1,3 +1,5 @@
+![alt text](https://i.gyazo.com/005a6de5579a6ee2b9e266b3f94ad5a0.png)
+
 # Three Pixels
 
 This is an extremely simple sass project that simply displays the three color choises for google's 2016 pixel phones. It's nothing exciting or terribly useful.
